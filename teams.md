@@ -144,7 +144,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# Team Barter Hub
+# Team BarterHub
 ### An E-commerce site for bartering goods
 * Teammates:
     - @Davido#4076
